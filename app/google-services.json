@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521610204444",
+    "project_id": "a-v-messanger-1e728",
+    "storage_bucket": "a-v-messanger-1e728.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521610204444:android:6f0a0eb3c4a2541a06d6d9",
+        "android_client_info": {
+          "package_name": "com.example.avmessanger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEckRTRdEPvouBD1aB9m7cZ4HOdOH1BG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
